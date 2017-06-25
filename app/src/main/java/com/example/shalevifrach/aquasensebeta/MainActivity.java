@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
             "מפסק זרימה",
             "שבשבת",
             "אלקטרודת כלור",
-            "אלקטרוליט"
+            "אלקטרוליט",
+            "שסתום רגל"
     };
 
     @Override
